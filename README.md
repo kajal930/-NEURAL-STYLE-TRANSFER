@@ -1,4 +1,13 @@
-# -NEURAL-STYLE-TRANSFER## 🔧 Project Overview – Task 3: Neural Style Transfer
+# -NEURAL-STYLE-TRANSFER
+**Name:** Kajal Kumari  
+**Company:** CODETECH IT SOLUTIONS  
+**Task ID:** CT04DH2042
+**Domain:** Artificial Intelligence  
+**Duration:** 5th July to 5th August 2025  
+**Mentor:** Neela Santhosh Kumar  
+R
+
+## 🔧 Project Overview – Task 3: Neural Style Transfer
 
 This project implements *Neural Style Transfer (NST)* — a deep learning technique that combines the *content of one image* with the *style of another* to create a new, stylized output. For example, applying the brushstroke style of a painting onto a photo of Krishna Bhagwan.
 
@@ -55,6 +64,4 @@ This project implements *Neural Style Transfer (NST)* — a deep learning techni
 
 A stylized image that *retains the subject and layout* of the original photo, but is rendered in the *artistic style* of the chosen painting.
 
----
 
-## 📁 Folder Structure
