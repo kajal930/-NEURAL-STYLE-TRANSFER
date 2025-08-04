@@ -5,7 +5,7 @@
 **Domain:** Artificial Intelligence  
 **Duration:** 5th July to 5th August 2025  
 **Mentor:** Neela Santhosh Kumar  
-R
+
 
 ## 🔧 Project Overview – Task 3: Neural Style Transfer
 
